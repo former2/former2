@@ -9,7 +9,7 @@ Simple form backend for static sites.
 ## Build
 
 ```
-docker build -t former2/former2
+docker build -t former2/former2 .
 ```
 
 ## Publish
