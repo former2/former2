@@ -12,6 +12,12 @@ Simple form backend for static sites.
 docker build -t former2/former2
 ```
 
+## Publish
+
+```
+docker push former2/former2
+```
+
 ## Run
 
 ```
